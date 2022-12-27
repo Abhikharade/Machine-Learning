@@ -1,2 +1,2 @@
-# Mahine-Learning
+# Machine-Learning
 Case Study
